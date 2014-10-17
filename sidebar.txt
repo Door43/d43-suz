@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suz:home|Door43 (suz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suz|d43-suz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suz/archive/master.zip|d43-suz.zip]]
+
+**Recent Changes**
+{{changes>ns = suz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suz|Ethnologue data]]
+
